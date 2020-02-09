@@ -12,7 +12,7 @@ The authors [AlArmouty & Fraihat](Analytics_and_BI_for_StockMarket_Trading.pdf) 
 
 ## A Novel Framework for Stock Trading Analysis Using Casual Relationship Mining (2017)
 
-In _2017 Third International Conference on Advances in Electrical, Electronics, Information, Communication and Bio-Informatics (AEEICB) Advances in Electrical, Electronics, Information, Communication and Bio-Informatics (AEEICB), 2017 Third International Conference on. :136-141 Feb, 2017_; [Bhoopathi & Rama](Casual_Relationship_Mining.pdf) use item set association to mine for patterns across different financial instruments.
+In _2017 Third International Conference on Advances in Electrical, Electronics, Information, Communication and Bio-Informatics (AEEICB), 2017 Third International Conference on. :136-141 Feb, 2017_; [Bhoopathi & Rama](Casual_Relationship_Mining.pdf) use item set association to mine for patterns across different financial instruments.
 
 They use an Apriori-like algorithm to creat the association rules and determine direct, indirect, and exclusive relatioships across the stock database.  Next they attempted to derive associations from stocks such as Intuit (INTU), Global Infrastructure (IGT) and International Flavors and Fragerance (IFF) over short periods (~25/30 days).  A likely explaination might be that the broader market sentimate had more impact than these specific items. This goes back to the validation of `practicality and validity of results proposed`.
 
@@ -34,7 +34,7 @@ The authors suggest that their approach to determining cluster density is more s
 
 ## Does the use of Technical & Fundamental Analysis improve Stock Choice? (2012)
 
-At _2012 International Conference on Statistics in Science, Business and Engineering (ICSSBE) Statistics in Science, Business, and Engineering (ICSSBE), 2012 International Conference on. :1-6 Sep, 2012_; [Hargreaves & Yi](DataMining_Technical_vs_Fundamental_Analysis.pdf) describe an investment strategy that begins with 2000 Australian stocks and narrows it down to a porfolio of 6 stocks.  They accomplish this by first choosing the best sectors, then filtering by fundamental analysis to only the most efficient companies that are growing.
+At _2012 International Conference on Statistics in Science, Business and Engineering (ICSSBE), 2012 International Conference on. :1-6 Sep, 2012_; [Hargreaves & Yi](DataMining_Technical_vs_Fundamental_Analysis.pdf) describe an investment strategy that begins with 2000 Australian stocks and narrows it down to a porfolio of 6 stocks.  They accomplish this by first choosing the best sectors, then filtering by fundamental analysis to only the most efficient companies that are growing.
 
 This prefiltering provides an effective strategy to apply some domain knowledge toward data set reduction.  They used static rules build a trading strategy that performed well over a short period of time.  There was also discussions around the use of `decision trees` as a mechanism to further filter data.
 
