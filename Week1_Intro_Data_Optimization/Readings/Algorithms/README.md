@@ -2,7 +2,7 @@
 
 ## Knowledge-based model to support decision-making when choosing between two association data mining techniques (2017)
 
-In _Revista Lasallista de Investigación. jul-dic2017, Vol. 14 Issue 2, p41-50. 10p._; [Giraldo Mejia et a.](KnowledgeBasedModel_Supporting_DecisionMaking.pdf) discuss logistic regression and association rules (Apriori Algorithm) as two strategies to perform data mining.
+In _Revista Lasallista de Investigación. jul-dic2017, Vol. 14 Issue 2, p41-50. 10p._; [Giraldo Mejia et al.](KnowledgeBasedModel_Supporting_DecisionMaking.pdf) discuss logistic regression and association rules (Apriori Algorithm) as two strategies to perform data mining.
 
 Knowledge Discovery in Databases (KDD) is composed of three stages:
 
