@@ -1,4 +1,4 @@
-# Readings
+# Choosing Algorithms
 
 ## Knowledge-based model to support decision-making when choosing between two association data mining techniques (2017)
 
