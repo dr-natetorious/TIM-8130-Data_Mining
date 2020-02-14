@@ -13,5 +13,5 @@
 **/.vs/*
 **/src/out/
 **/*.class
-Weeks2_Fundamentals_Software/Environments/COBRA/src/HelloApp
-Weeks2_Fundamentals_Software/Environments/COBRA/src/orb.db
+**/.ipynb_checkpoints
+**/Week2_Usefulness_DataMining/OpenNYC/*.csv
