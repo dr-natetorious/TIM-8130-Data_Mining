@@ -15,3 +15,4 @@
 **/*.class
 **/.ipynb_checkpoints
 **/Week2_Usefulness_DataMining/OpenNYC/*.csv
+**/*.csv
