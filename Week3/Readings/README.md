@@ -12,8 +12,15 @@ Those metalearnings and metaexamples can be defined as super examples or feature
 
 ## An Investigation of Nonparametric DATA MINING TECHNIQUES for Acquisition Cost Estimating (2017)
 
-In _Defense Acquisition Research Journal: A Publication of the Defense Acquisition University. Apr2017, Vol. 24 Issue 2, p302-332. 31p._; [Brown, G; White, E](Mining_AcquisitionCost_Estimates.pdf) state that _using meta-analysis indicate that, on average, the nonparametric techniques outperform OLS (ordinary least squares)
-regression for cost estimating.
+In _Defense Acquisition Research Journal: A Publication of the Defense Acquisition University. Apr2017, Vol. 24 Issue 2, p302-332. 31p._; [Brown, G; White, E](Mining_AcquisitionCost_Estimates.pdf) state that _using meta-analysis indicate that, on average, the nonparametric techniques outperform OLS (ordinary least squares) regression for cost estimating_.  The authors then investigated how these more complex models performed when predicting the purchase of aircrafts at the DoD.  There was limited data available, so they relied on estimates for software projects as a research proxy.
+
+They note that while nonparametric techniques are more precise, it comes with a need for significantly more data.  Using metaanalysis different software project estimates are first clustered to find similarities.  By looking at the Euclidian distance between the examples it emulates humans "apples-to-apples reasoning."
+
+Next they looked at MultiLayer Perceptron (MLP) neural networks, which are simply a non-parametric function mapped to a parametric function.  The goal of the hidden layer is to discover the network weights through so that the output layer becomes a linear function.  This algorithm is frequently found in research as it is fairly simple to apply.  However, there can be challenges with explaining the "black box" even when its accurate, and that can lower confidence to decision makers.
+
+The third category of algorithms is decision tree regressors, that attempt to split the continuous output range into regions based on tree braches.  A critical strength of these structures comes from their ability to be easily explained.  The researchers recommend limiting the number decisions to a fairly small number (e.g., 3-5) to avoid overfitting.
+
+When there is insufficient data they also recommend not estimating additional ranges.  They state that without evidence those estimates would be correct it only pollutes the optimization algorithm with overfitting.
 
 ## A survey on pre-processing techniques: Relevant issues in the context of environmental data mining (2016)
 
