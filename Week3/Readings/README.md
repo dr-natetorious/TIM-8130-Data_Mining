@@ -24,7 +24,13 @@ When there is insufficient data they also recommend not estimating additional ra
 
 ## A survey on pre-processing techniques: Relevant issues in the context of environmental data mining (2016)
 
-In _AI Communications. 2016, Vol. 29 Issue 6, p627-663. 37p._; [Gibert, K; Sanchez-Marre, M; Izquierdo, J](PreProcessing_Techniques.pdf)...
+In _AI Communications. 2016, Vol. 29 Issue 6, p627-663. 37p._; [Gibert, K; Sanchez-Marre, M; Izquierdo, J](PreProcessing_Techniques.pdf) perform a survey on common methods to pre-process target data into a form that is usable for knowledge discovery.  They state that correctly accounting for error conditions and data quality are extremely critical for the success of the project, however these initial areas are often under represented.
+
+> Most previous work on KDD has focused on [...] DM step. However, the other steps are of considerable importance for the successful application of KDD in practice.  [...]  In environmental data, measurement errors (from automatic or manual monitoring), uncertainty, imprecision, multi-scalarity, non-linearities, non-stacionarity, non-normality, heterogeneity, etc., are frequent. Also, redundant variables, irrelevant, or even contradictory, are found.
+
+![preprocessing.png](preprocessing.png)
+
+The authors call out that nearly 70% of all data mining occurs during the data cleaning phase, and this aspect is very difficult to automate because it requires domain-expertise from expert.  Afterward, the algorithm application is relatively quick with any issues transition the user back into the data cleaning phase.  Despite nearly all of the time occurs at this step, researchers tend to only focus on the algorithms.
 
 ## Recommending Learning Activities in Social Network Using Data Mining Algorithms (2017)
 
