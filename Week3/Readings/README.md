@@ -39,7 +39,3 @@ The authors call out that nearly 70% of all data mining occurs during the data c
 In _Journal of Educational Technology & Society. Oct2017, Vol. 20 Issue 4, p11-23. 13p._; [Mahnane, L](RecommendationLearning_SocialNetworks.pdf) the review the challenges that are associated with mining social networks, and point-out several benefits of this action.  They used a educational forum to determine various traits about the members of the system.
 
 First, they began with a semantic model that describes the associations of each object within the network (e.g., participants, chat message, photo).  Next `Apriori rules` were generated to classify the types of learning activities that a user enjoyed.  They note that a temporal dimension (time period sensitive behavioral preferences) can occur, where users enjoy e.g. interactive games, then transition to only using discussion activities.  Advanced systems need to recognize this trait and consider the time period (e.g. 2020 Q1) as an additional dataset feature.  Finally, variations of clustering (e.g., k-means) allow for similar students to become bucketed together.  After bucketing, it becomes faster to analyze the big data as intelligent sampling can choose high-quality representatives.
-
-## Data Mining: Practical Machine Learning Tools and Techniques (2011)
-
-In chapter 4, _Algorithms: The Basic Methods_, [Witten, I](DataMining_ch4.pdf) states the simpliest algorithms are often the best solutions.
