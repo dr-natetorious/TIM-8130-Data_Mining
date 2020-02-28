@@ -1,0 +1,14 @@
+# Section 1: Week 2: Usefulness of Data Mining
+
+The Usefulness of Data Mining of Big Data
+Data mining and big data are two different things; however, both of these terms involve using large data sets that are collected by the organization to perform operations within decision-making. Data mining goes through the big data sets in the hope of finding key and pertinent information. Data mining is a difficult process because not all big data is an asset to the organization, so a large amount of data is mined through to find the few key pieces of data that will be beneficial to the organization.
+
+Big data is a reality of everyday life, which creates a need to optimize the data. Big data is large data sets that are collected to analyze possible patterns, trends, and associations. Big data is used often to determine human behavior and interactions. When dealing with such large amounts of information, however, this can be a problem. There are many domains where optimization can be an issue, including machine learning, social network science, computational biology, and compression sensing. These applications have billions of variables that must be optimized. The classical methods for optimization do not scale to the size these applications require; therefore, new approaches are needed.
+
+With the increased use of big data, data mining has evolved to take on the massive amount of big data that is collected by today's organizations. Big data refers to the large data sets that are collected from diverse sources, such as social media, customer inquiries, and customer tracking. Most big data databases are too large to be handled from simple Excel spreadsheets, so the need for data mining has become even more important.
+
+Data mining is the process for going through the big data sets to find relevant or important information that will aid the organizations in the decision-making process. Data mining is essential because data mining allows the organizations to take smaller sets of information from the big data sets to find the essential information that is needed. In summary, big data is considered the asset to the organization and the data mining process is the handler of the data that will provide beneficial outcomes to the organizations.
+
+Be sure to review this week's resources carefully. You are expected to apply the information from these resources when you prepare your assignments.
+
+The resources for this week will help you to understand the data mining process of big data. First, you will be introduced to what big data is and the importance of big data to the organization. Second, you will explore the techniques of data mining that are used to extract the big data from various sources. Finally, you will be introduced to how databases are used to house the big data.
