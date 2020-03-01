@@ -50,7 +50,13 @@ According to page 383 the general process is:
 6. Examine each of the fitted univariate functions overlaid on their partial residuals.
 7. Prune the hidden layers with apparently linear effects and add neurons to hidden layers where the nonlinear trend appears to be underfitted. If this step is repeated, the final estimates from previous fits can be used as starting values.
 
+### What are Alternating Conditional Expectations (ACE)
+
+The ACE algorithm was developed by Breiman and Friedman (1985) as a tool to estimate optimal transformations for multiple regression problems.
+
 ### How much training data is required
+
+According to page 411:
 
 > Furthermore, according to the rule of thumb stating that at least 10 records are needed to accurately estimate a parameter (Zhang, Patuwo, and Hu 1998).
 
