@@ -16,17 +16,21 @@ In _Cognitive Science. May2017, Vol. 41 Issue 5, p1155-1167. 13p._; [Hsu; Horng;
 
 The authors provide an analogy of predicting _does Bob wear a tie_, that considers the difference between `rarely versus never`.  To determine this distinction can be statistically challenging because too say never requires a lot of samples over a long period of time.  These samples need to include various context (e.g., at home versus at work, etc.) or there is a high probability of `undergeneralization`.  In terms of real research the majority of the effort occurs with _language learning tasks_, as the absense of examples is a critical component of fully understanding grammar.
 
-### Experiment 1: Mine sweeper (salience of an absense)
+### What experiments did they perform
 
 A study was placed on Amazon Mechanical Turk and participants were paid 0.35$ to complete the 12-minute experiment.  Participants were shown randomly generated mine sweep maps, and asked to randomly choose 10 of the 100 remaining squares.  Afterward, they needed to determine if the map was Type 1 (has mines) or Type 2 (no mines).  100% of the users that encountered a mine said the map was type 1.  For the remainder there compared against a Bayse equation to show that responses were correlated though humans were more conservative in judgement.
-
-### Experiment 2: Binary decision
 
 There was concern that the wording was ambigious so another study group was created to test a different mine sweeper.  This one explicitly asks are there mines in the control area, versus the former might have inferred they haven't occurred.  The second and more explicit test also provides a high correlation to the bayes model that is perhaps overly conservative.
 
 ## A Markov Chain Model for Changes in Users' Assessment of Search Results (2016)
 
-In _Plos One [PLoS One] 2016 May 12; Vol. 11 (5)_; [Zhitomirsky-Geffet et al.](Markov_Assessment_of_Search_Results.pdf)...
+In _Plos One [PLoS One] 2016 May 12; Vol. 11 (5)_; [Zhitomirsky-Geffet et al.](Markov_Assessment_of_Search_Results.pdf) note that "previous research shows that users tend to change their assessment of search results over time. This is a first study that investigates the factors and reasons for these changes, and describes a stochastic model of user behaviour that may explain these changes."
+
+> According to the theory of coarse beliefs and categorical thinking, humans tend to divide the range of values under consideration into coarse categories, and are thus able to distinguish only between cross-category values but not within them.  We make use of a Markov chain model to [...] demonstrates that the changes converge, and that a majority of the changes are local to a neighbouring relevance category.
+
+### What did they test
+
+Their hypothesis is that people are poor judges of search result relevance.  Some studies report that 15-25% of results are irrelevant, despite a statistical analysis showing they are in the same category (cluster).  To explore this phenomena they asked a fixed audience of students to rank search the same set of results over a semester.  This process constrains all variables except for time (4 rounds).
 
 ## AUTOMATION OF GENERALIZED ADDITIVE NEURAL NETWORKS FOR PREDICTIVE DATA MINING (2011)
 
