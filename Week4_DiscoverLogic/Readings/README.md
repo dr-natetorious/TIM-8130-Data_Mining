@@ -30,7 +30,9 @@ In _Plos One [PLoS One] 2016 May 12; Vol. 11 (5)_; [Zhitomirsky-Geffet et al.](M
 
 ### What did they test
 
-Their hypothesis is that people are poor judges of search result relevance.  Some studies report that 15-25% of results are irrelevant, despite a statistical analysis showing they are in the same category (cluster).  To explore this phenomena they asked a fixed audience of students to rank search the same set of results over a semester.  This process constrains all variables except for time (4 rounds).
+Their hypothesis is that people are poor judges of search result relevance.  Some studies report that 15-25% of results are irrelevant, despite a statistical analysis showing they are in the same category (cluster).  To explore this oddity, they asked ~150 students to judge the results from static queries against Bing/Google/Yahoo about the top10 results relevance four times iterations across a semester.  Since the audience and queries were the same the only independent variable became the time component.
+
+At each iteration the student needs to rate the quality in terms of a 1-4 scale, with four being the great.  For instance, if a student scored (Bing, 'Apples') as [3, 1, 1, 4] this would represent a _descent first iteration, poor results, poor results, and became relevant_.  The probability of transitioning between these states (e.g. 3->1) can then be calculated across the population to derive the transitional matrix.
 
 ## AUTOMATION OF GENERALIZED ADDITIVE NEURAL NETWORKS FOR PREDICTIVE DATA MINING (2011)
 
