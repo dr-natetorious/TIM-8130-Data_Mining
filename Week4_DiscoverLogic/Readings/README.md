@@ -36,7 +36,23 @@ At each iteration the student needs to rate the quality in terms of a 1-4 scale,
 
 ## AUTOMATION OF GENERALIZED ADDITIVE NEURAL NETWORKS FOR PREDICTIVE DATA MINING (2011)
 
-In _Applied Artificial Intelligence. May/Jun2011, Vol. 25 Issue 5, p380-425_; [de Waal; du Toit](Generalized_Additive_NeuralNetworks.pdf)...
+In _Applied Artificial Intelligence. May/Jun2011, Vol. 25 Issue 5, p380-425_; [de Waal; du Toit](Generalized_Additive_NeuralNetworks.pdf) state In Sarle (1994) translated the theoretical model of neural networks into statistical modeling, and then Potts (1999) extended these ideas into `GANNs`.  The original ideas of GANNS extends on `Multi-Layer Perception`, because MLPs are universal approximators that can model any continuous function.  While these algorithms are highly effective, using neural network technologies is time consuming due to the manual tweaks on the underlying architecture (e.g., hidden layer sizes).  The authors propose a framework that generalizes an additive model to programmatically reshape the architecture towards an efficient underlying structure.
+
+### What is the general process
+
+According to page 383 the general process is:
+
+1. Construct a GANN with one neuron and a skip layer for each input (inputs are assumed to be standardized):
+2. This gives four parameters (degrees of freedom, df) for each input. Binary inputs (dummy variables) only have a direct connection (1 df).
+3. Fit a generalized linear model to give initial estimates of b0 and w0j.
+4. Initialize the remaining three parameters in each hidden layer as random values from a normal distribution with mean zero and variance equal to 0.1.
+5. Fit the full GANN model.
+6. Examine each of the fitted univariate functions overlaid on their partial residuals.
+7. Prune the hidden layers with apparently linear effects and add neurons to hidden layers where the nonlinear trend appears to be underfitted. If this step is repeated, the final estimates from previous fits can be used as starting values.
+
+### How much training data is required
+
+> Furthermore, according to the rule of thumb stating that at least 10 records are needed to accurately estimate a parameter (Zhang, Patuwo, and Hu 1998).
 
 ## What is Missing? Using Data Mining Techniques with Business Cycle Phases for Predicting Company Financial Crises (2011)
 
