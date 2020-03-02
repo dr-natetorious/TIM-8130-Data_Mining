@@ -1,0 +1,13 @@
+# Section 2: Week 4: Data Mining and Predictive Analytics
+
+In addition to the analysis techniques that we discussed in Week 3, organizations also use predictive analysis in their data mining processes. _The first type of predictive analysis is `association rule` learning_. This method involves identifying interesting relations between the variables within the databases. The association allows the organization to unpack the patterns in the data to determine the frequency that it occurs within the data. These types of analyses are often used to forecast customer behavior.
+
+_The second type is the `anomaly` or outlier detection_. In this analysis, the data is screened and analyzed for data that do not fit into the patterns or the behaviors. The anomalies are critical and also usually require action by the organization. This type of analysis is often used for fraud detection, fault detection, and event detection.
+
+The field of logic includes the idea of `inference`. Inference is the calculating of logical conclusions from items assumed or known to be true. There are sets of laws that govern what constitutes a valid inference. An alternative approach is to look at inference as a _non-logical but rational way_ to indirectly see meaning in contexts using rational means and observation of patterns. Inference can also be viewed as new pathways for inquiry. Sometimes, logic refers to the way in which we process information or the built-in ways that we have a database handle any specific set of instructions. Logic can have different specific, task-driven meanings based on the outcomes expected.
+
+In this form of inference (referring to logic), meaningful relationships are articulated. Inferences are crucial in data outcomes, but they must be assessed for logic—in other words, `if an inference is made, you must determine if that inference meets the rules of logic`. Humans use inference to draw conclusions. Inference is studied within the field of cognitive psychology, and all researchers often develop inference systems to emulate human decision making. On the other side, there is statistical inference that uses math to draw conclusions when there is uncertainty. This form of inference modeling uses both qualitative and quantitative data that may have random variations.
+
+The resources for this week help you to explore logic and inferences. You will be provided with visual examples of the processes and also an overview of the Markov chains.
+
+Be sure to review this week's resources carefully. You are expected to apply the information from these resources when you prepare your assignments.
