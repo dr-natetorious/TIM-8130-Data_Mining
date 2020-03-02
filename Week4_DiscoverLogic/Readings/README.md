@@ -36,7 +36,7 @@ At each iteration the student needs to rate the quality in terms of a 1-4 scale,
 
 ## AUTOMATION OF GENERALIZED ADDITIVE NEURAL NETWORKS FOR PREDICTIVE DATA MINING (2011)
 
-In _Applied Artificial Intelligence. May/Jun2011, Vol. 25 Issue 5, p380-425_; [de Waal; du Toit](Generalized_Additive_NeuralNetworks.pdf) state In Sarle (1994) translated the theoretical model of neural networks into statistical modeling, and then Potts (1999) extended these ideas into `GANNs`.  The original ideas of GANNS extends on `Multi-Layer Perception`, because MLPs are universal approximators that can model any continuous function.  While these algorithms are highly effective, using neural network technologies is time consuming due to the manual tweaks on the underlying architecture (e.g., hidden layer sizes).  The authors propose a framework that generalizes an additive model to programmatically reshape the architecture towards an efficient underlying structure.
+In _Applied Artificial Intelligence. May/Jun2011, Vol. 25 Issue 5, p380-425_; [de Waal; du Toit](Generalized_Additive_NeuralNetworks.pdf) state In Sarle (1994) translated the theoretical model of neural networks into statistical modeling, and then Potts (1999) extended these ideas into `GANNs`.  The original ideas of GANNS extends on `Multi-Layer perceptron`, because MLPs are universal approximators that can model any continuous function.  While these algorithms are highly effective, using neural network technologies is time consuming due to the manual tweaks on the underlying architecture (e.g., hidden layer sizes).  The authors propose a framework that generalizes an additive model to programmatically reshape the architecture towards an efficient underlying structure.
 
 ### What is the general process
 
