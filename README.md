@@ -2,10 +2,6 @@
 
 Notes, papers, and projects regarding the emerging issues in data mining
 
-In nearly every business decision made today, data play a substantial, relevant role in the decision and outcome. Almost every element of rapidly growing businesses today involves data mining. From companies that want to understand their consumer to those who want to sell more to them, data mining provides new and unique data and perspectives on existing data. Not only will you continue to study data mining in other courses, but you will also see this in everyday life. For instance, Google is not a search company—Google is a data company. It is the information that they know about all of us that makes them so valuable. Social media giants are also data companies. This is what gives them value and underscores their stock price and value. Most of what we do on the web is mined—someone knows something about us we haven’t anticipated or expected. This is also an area of controversy. For instance, Facebook had to update its privacy information and explanations to users due to not explaining what they were doing with data well enough to satisfy US and EU requirements. Businesses often know a tremendous amount of information about their customers but may not realize it due to not having the tools or expertise to properly mine the data.
-
-In this course, Data Mining, we will examine advanced theories and concepts related to the extraction of meaningful and nonobvious information from structured and unstructured data. We will evaluate the data assets a company has, and how useful data mining may be. We will evaluate emerging technologies in data mining and their potential in practice. We will evaluate the gaps between data mining theory and practice and propose improvements to data mining theory. By completing the work in this course, particularly assignments related to how to mine data and sample databases, you will be able to optimize data sets, apply mining and inference algorithms to data, evaluate the performance of data mining techniques, study the usefulness and validity of results and recommend improvements to data mining.
-
 ## Course Overview
 
 - Section 1: Introduction and Data Optimization
@@ -19,6 +15,12 @@ In this course, Data Mining, we will examine advanced theories and concepts rela
   - Week 6: Data Mining Practices Using Statistics
   - Week 7: Challenges in Data Mining Theories and Practice
   - Week 8: The Future of Data Mining
+
+## Description
+
+In nearly every business decision made today, data play a substantial, relevant role in the decision and outcome. Almost every element of rapidly growing businesses today involves data mining. From companies that want to understand their consumer to those who want to sell more to them, data mining provides new and unique data and perspectives on existing data. Not only will you continue to study data mining in other courses, but you will also see this in everyday life. For instance, Google is not a search company—Google is a data company. It is the information that they know about all of us that makes them so valuable. Social media giants are also data companies. This is what gives them value and underscores their stock price and value. Most of what we do on the web is mined—someone knows something about us we haven’t anticipated or expected. This is also an area of controversy. For instance, Facebook had to update its privacy information and explanations to users due to not explaining what they were doing with data well enough to satisfy US and EU requirements. Businesses often know a tremendous amount of information about their customers but may not realize it due to not having the tools or expertise to properly mine the data.
+
+In this course, Data Mining, we will examine advanced theories and concepts related to the extraction of meaningful and nonobvious information from structured and unstructured data. We will evaluate the data assets a company has, and how useful data mining may be. We will evaluate emerging technologies in data mining and their potential in practice. We will evaluate the gaps between data mining theory and practice and propose improvements to data mining theory. By completing the work in this course, particularly assignments related to how to mine data and sample databases, you will be able to optimize data sets, apply mining and inference algorithms to data, evaluate the performance of data mining techniques, study the usefulness and validity of results and recommend improvements to data mining.
 
 ## Learning Outcomes
 
