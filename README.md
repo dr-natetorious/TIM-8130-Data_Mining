@@ -6,6 +6,20 @@ In nearly every business decision made today, data play a substantial, relevant 
 
 In this course, Data Mining, we will examine advanced theories and concepts related to the extraction of meaningful and nonobvious information from structured and unstructured data. We will evaluate the data assets a company has, and how useful data mining may be. We will evaluate emerging technologies in data mining and their potential in practice. We will evaluate the gaps between data mining theory and practice and propose improvements to data mining theory. By completing the work in this course, particularly assignments related to how to mine data and sample databases, you will be able to optimize data sets, apply mining and inference algorithms to data, evaluate the performance of data mining techniques, study the usefulness and validity of results and recommend improvements to data mining.
 
+## Course Overview
+
+- Section 1: Introduction and Data Optimization
+  - [Week 1](Week1_Intro_Data_Optimization): Organizational Assets Through the Collection and Use of Data
+  - [Week 2](Week2_Usefulness_DataMining): The Usefulness of Data Mining of Big Data
+- Section 2: Data Mining Techniques
+  - [Week 3](Week3_Application): Data-Mining Techniques Through Analysis and Algorithms
+  - [Week 4](Week4_DiscoverLogic): Data Mining and Predictive Analytics
+- Section 3: Data Mining Theory and Practice
+  - Week 5: Theories of Data Mining and Machine Learning
+  - Week 6: Data Mining Practices Using Statistics
+  - Week 7: Challenges in Data Mining Theories and Practice
+  - Week 8: The Future of Data Mining
+
 ## Learning Outcomes
 
 1. Evaluate an organization's data assets and the potential usefulness of data mining within the organization
@@ -20,25 +34,3 @@ In this course, Data Mining, we will examine advanced theories and concepts rela
 - Data Mining Practices
 - Data Mining Theories
 - Data Mining Limitations
-
-## Course Overview
-
-- Section 1: Introduction and Data Optimization
-  - [Week 1](Week1_Intro_Data_Optimization): Organizational Assets Through the Collection and Use of Data
-    Week 1 Assignment: Analyze an Organization’s Data Mining Assets (10 Points)
-  - Week 2: The Usefulness of Data Mining of Big Data
-    Week 2 Assignment: Evaluate Data Mining Techniques to Optimize a Data Set (10 Points)
-- Section 2: Data Mining Techniques
-  - Week 3: Data-Mining Techniques Through Analysis and Algorithms
-    Week 3 Assignment: Analyze Algorithm Segmentation in Organizations (10 Points)
-  - Week 4: Data Mining and Predictive Analytics
-    Week 4 Assignment: Analyze Techniques to Discover Logic (10 Points)
-- Section 3: Data Mining Theory and Practice
-  - Week 5: Theories of Data Mining and Machine Learning
-    Week 5 Assignment: Analyze Data Mining Theories Through Data Problems (15 Points)
-  - Week 6: Data Mining Practices Using Statistics
-    Week 6 Assignment: Analyze Statistics in Data Sets and Data Mining (10 Points)
-  - Week 7: Challenges in Data Mining Theories and Practice
-    Week 7 Assignment: Evaluate RFID in Data Mining (10 Points)
-  - Week 8: The Future of Data Mining
-    Week 8 Signature Assignment: Evaluate IoT and Data Mining (25 Points)
