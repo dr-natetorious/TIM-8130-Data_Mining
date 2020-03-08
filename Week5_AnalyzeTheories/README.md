@@ -1,0 +1,11 @@
+# Section 3: Week 5: Theories of Data Mining and Machine Learning
+
+Data mining theories have guided organizations as they answer challenges and organizational problems within different industries. Data mining has been used to discover unknown features and patterns through large and complex datasets. This knowledge can only be determined through the integration of supervised and unsupervised data mining. Data mining is not a single-step process, but a combination of analyses and patterns.
+
+There are myriad performance and classification algorithms that can be used to evaluate machine learning. Generally speaking, there are different measures used to evaluate the different characteristics of classifiers induced by algorithms. This means the evaluation of a classifier continues to be a topic of research. This is the case even for binary classifiers that only involve two classes. As the number of classes increases, the evaluation becomes more complex. Most of the existing evaluation metrics were developed for binary classification models. Not only are there typically more than two classes, but the classes may also be hierarchically related to one another. So, an adaption of evaluation methodologies used for flat classifiers does not take into account the full characteristics of the problem and therefore inadequate.
+
+Once the organization has developed a machine learning model, it is important to know whether the model has good performance or not. Baseline models can be used to determine the performance for which all models will be evaluated. Most predictive models will contain some errors, so it important for organizations to understand that perfect scores are not possible with the algorithms that are created. The essential job of a machine learning is to explore the models that are needed and to base the performance of the machine learning on specific baselines that have been determined by the organization using a specific dataset.
+
+The resources for this week introduce you to machine learning and how performance is measured. You will explore how organizations develop and use machine learning through predictive modeling.
+
+Be sure to review this week's resources carefully. You are expected to apply the information from these resources when you prepare your assignments.
