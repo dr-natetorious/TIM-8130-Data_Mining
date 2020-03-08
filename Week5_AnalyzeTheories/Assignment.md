@@ -15,3 +15,4 @@ References: A minimum of 5 scholarly sources
 Your essay should demonstrate thoughtful consideration of the ideas and concepts presented in the course and provide new thoughts and insights relating directly to this topic. Your response should reflect scholarly writing and current APA standards. Be sure to adhere to Northcentral University's Academic Integrity Policy.
 
 Upload your document and click the Submit to Dropbox button.
+  
