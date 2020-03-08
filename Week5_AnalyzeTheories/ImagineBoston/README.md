@@ -38,6 +38,20 @@ Another aspect of interest is the [demographics by Race](http://worldpopulationr
 
 ![wealth.png](wealth.png)
 
+## Median Hourly Wage of Low-Wage Occupations
+
+The [median income](https://datausa.io/profile/geo/boston-ma/) for Boston is 71,834 and leads to a very different lifestyle than the low-wage earners.
+
+Many of these unskilled workers would require access to housing that costs _roughly 400$/month_, which prevents these people from purchasing homes and accumulating equity.  It becomes even more challenging for low-wage families.
+
+|Industry|Wage/hour|Per Month (40h*26/12W)| Rent Target (35%)|
+|Health Care Support|16.99|1472|515|
+|Personal Care/Service|13.73|1190|416|
+|Building/Cleanining/Maintenance|12.75|1105|386|
+|Food Prep|12.25|1061|371|
+
+![wage_income.png](wage_income.png)
+
 ## Reducing Crime
 
 Boston is the fourth safest major city in the country with 2852 per 100k residents.  The [Crime Incident Reports](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system/resource/12cb3883-56f5-47de-afa5-3b1cf61b257b) provides information about these figures.
@@ -75,4 +89,8 @@ The dashboard also cherry-picks aggravated assault, and excludes other forms of 
 
 ![assaults.png](assaults.png)
 
-The category _SEX OFFENSE - RAPE - FORCIBLE_ occurred 47 times last year, versus the first three months of 2020 already have 35.  Similarly, _Larceny_ is on the rise... based on the spot checking it seems the number of occurrences is remaining steady.
+The category _SEX OFFENSE - RAPE - FORCIBLE_ occurred 47 times last year, versus the first three months of 2020 already has 35.  Interestingly, Tues is the least rapey day of week likely coinsiding with the number of people out drinking.  Police district B2 ([Roxbury](https://en.wikipedia.org/wiki/Roxbury,_Boston)) is home 34% of all 2019 and 17% of 2020 rapes.
+
+![rapes_by_day.png](rapes_by_day.png)
+
+Similarly, _Larceny_ is on the rise... based on the spot checking it seems the number of occurrences is remaining steady.
