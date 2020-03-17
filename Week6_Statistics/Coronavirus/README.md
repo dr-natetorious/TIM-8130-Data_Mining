@@ -16,7 +16,7 @@ My proposed approximation uses the US Census data to [partition per state and co
 
 Based on those results a ballpark figure is _45,000 deaths per 1% of America infected_.  Since this is a linear approximation, the first percent will likely be lower and grow into this amount.  Assuming 100% infection rate, states such as Florida could see a 1.72% population loss as this virus specifically kills senior citizens.  The projected worst case scenario would be 2.6 to 6.7 million deaths (0.8 to 1.8%) assuming the statistics from Italy, China, and South Korea do not change.
 
-![analysis.png](analysis.png)
+![analysis_results.png](analysis_results.png)
 
 ## What can we conclude from the mortality curve
 
