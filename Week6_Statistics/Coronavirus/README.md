@@ -4,7 +4,7 @@ The Coronavirus has impacted the stock market and emptied grocery stores, but wh
 
 ## What challenges exist with the current measurements
 
-A lot of panic has occurred in part, because of the confusion around mortality rates-- will this kill me.  While the media reports the metric as `total deaths/total cases`, this is not a good approximatation specifically because the accounting standards are not uniform across the global.  For instance, South Korea has lower infection rates, however their frequent testing increases the denominator more so than Italy.  Another challenge comes from the strong correlation to age, which greatly influences the probability to mortality.
+A lot of panic has occurred in part, because of the confusion around mortality rates-- will this kill me??  While the media reports the metric as `total deaths/total cases`, this is not a good approximatation specifically because the accounting standards are not uniform across the global.  For instance, South Korea has lower infection rates, however their frequent testing increases the denominator more so than Italy.  Another challenge comes from the strong correlation to age, which greatly influences the probability to mortality.
 
 ![mortality.png](mortality.png)
 
@@ -20,7 +20,7 @@ Based on those results a ballpark figure is _45,000 deaths per 1% of America inf
 
 ## What can we conclude from the mortality curve
 
-If these numbers are accurate or not, it does not change the core point that this virus kills senior citizens.  Healthy individuals need to self-quarantine to prevent the spread to immune compromised persons.  The vast majority of us will be fine, however failure to limit the virus will kill large numbers older people.
+If these numbers are accurate or not, it does not change the core point that this virus kills senior citizens.  Healthy individuals need to self-quarantine to prevent the spread to immune compromised persons.  The vast majority of us will be fine, however failure to limit the virus will kill large numbers of older people.
 
 ## What other limits exist to this research
 
