@@ -14,7 +14,9 @@ In _Journal of Intelligent & Fuzzy Systems. 2015, Vol. 29 Issue 6, p2769-2777. 9
 
 ## A hybrid data mining model in analyzing corporate social responsibility (2016)
 
-In _Neural Computing & Applications. Apr2016, Vol. 27 Issue 3, p749-760. 12p._; [Pai et al.](HybridMining_Analyzing_CorporateSocailResponsibility.pdf)...
+In _Neural Computing & Applications. Apr2016, Vol. 27 Issue 3, p749-760. 12p._; [Pai et al.](HybridMining_Analyzing_CorporateSocailResponsibility.pdf) notes that corporate social responsibility continues to be a hot topic, though most analysis relies on traditional statistics and not data mining strategies.  The authors fill this gap with various pre-processing solutions that focus on fuzzy clsutering, State Vector Machines (SVM), and decision trees.  There is some degree of controversy whether it is the responsibility of corporations to be socially responsible, though a growing interest among investors (especially mellenails) generates the need to publish statistics.  
+
+This was an interesting case study on how ensemble and pre-processing methods boost model accuracy, and can provide reasonable estimates to real world data sets.  They express the need for further research into these ideas and there application.
 
 ## Predicting Missing Values in a Dataset: Challenges and Approaches (2017)
 
