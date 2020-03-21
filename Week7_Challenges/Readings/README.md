@@ -22,7 +22,13 @@ In _International Journal of Recent Research Aspects. Sep2017, Vol. 4 Issue 3, p
 
 ## A Data-Centric, Defense-in-Depth Approach for Securing the Internet of Things (2018)
 
-In _ISSA Journal. Jun2018, Vol. 16 Issue 6, p40-46. 7p._; [Sivagnanam, M](DataCentric_Approach_Securing_IoT.pdf)...
+In _ISSA Journal. Jun2018, Vol. 16 Issue 6, p40-46. 7p._; [Sivagnanam, M](DataCentric_Approach_Securing_IoT.pdf) highlights the need for securing IoT data as it can easily accumulate personally identifable information (PII) and other sensitive information.  These concerns increase as the volume of IoT information trends towards big data workloads, as the ocean requires _information governance policies_, specifically around retention, encryption, and access.
+
+![secure_iot.png](secure_iot.png)
+
+> The approach classifies big data into ten granular modules: Data access, data format, data frequency, data processing methods, data usage, data consumers, data source, data classification, data store, and data storage.   These classifications facilitate implementing a data-centric security approach with three primary security controls: Preventive, detective, and administrative. [...]  The life cycle of big data has six main stages: creation and discovery, access and data flow, process, share, store, and destroy.
+
+![secure_big_data_lifecycle.png](secure_big_data_lifecycle.png)
 
 ## AMA-TV: Big data, rejection, customer forecasting, and social media security (2013)
 
