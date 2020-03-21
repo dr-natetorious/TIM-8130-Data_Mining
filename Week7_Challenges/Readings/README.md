@@ -18,7 +18,38 @@ In _Neural Computing & Applications. Apr2016, Vol. 27 Issue 3, p749-760. 12p._; 
 
 ## Predicting Missing Values in a Dataset: Challenges and Approaches (2017)
 
-In _International Journal of Recent Research Aspects. Sep2017, Vol. 4 Issue 3, p34-38. 5p._; [Rawal et al.](PredictingMissingValues.pdf)...
+In _International Journal of Recent Research Aspects. Sep2017, Vol. 4 Issue 3, p34-38. 5p._; [Rawal et al.](PredictingMissingValues.pdf) state that nearly all real-world data has missing values and these introduce challenges for mining and classification algorithms.  These concerns raise the need to predict those values and fill in any gaps.
+
+Missing values can be categorized as:
+
+- Missing completely at random (MCAR) - if the events that lead to any particular data item being missing are independent of both the observable variables and unobservable parameters of interest.
+- Missing at random (MAR) - some attribute are not randomly distributed across the observations but are distributed within one or more sample.
+- Not missing at random (NMAR) - the missing data is dependent on the values of the attribute.
+
+### How much data can be missing or erroneous
+
+|Amount Missing| Impact on accuracy|
+| < 1%| Negliable to non issue |
+| 1-5%| Managable to some extent |
+| 5-15%| Requires Sophisticated methods |
+
+### What are the challenges in predicting missing values
+
+1. The missing data prediction method should not alter the distribution of data.
+2. The relationships between the attributes of the data set must be retained by the prediction method deployed.
+3. The prediction method should not be too complex and should not have high time cost factor.
+4. The missing values should be predicted and replaced in such a way that all the data mining analytical procedures can be applied to the newly completed dataset easily.
+
+### What are common solutions
+
+- Use the mean value of the attribute
+- Discard the incomplete records
+- Column-wise Guided Data Imputation method (CGDI) - e.g., K-nearest neighbor (KNN) or regression
+- Unsupervised Feature Learning
+- Association rules (e.g., Apripori) to guess best choice based on support
+- Decision trees to guess the best choice based on the other features
+
+In this video, [Naik, K](https://www.youtube.com/watch?v=q-DyjA8ZmYM) discusses similar ideas as this paper.
 
 ## A Data-Centric, Defense-in-Depth Approach for Securing the Internet of Things (2018)
 
