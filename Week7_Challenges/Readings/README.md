@@ -10,7 +10,19 @@ In _Journal of Supercomputing. Oct2016, Vol. 72 Issue 10, p3927-3959. 33p._; [Fo
 
 ## Domain mining for machine translation (2015)
 
-In _Journal of Intelligent & Fuzzy Systems. 2015, Vol. 29 Issue 6, p2769-2777. 9p._; [Junfei et al.](DomainMiningMachineTranslation.pdf)...
+In _Journal of Intelligent & Fuzzy Systems. 2015, Vol. 29 Issue 6, p2769-2777. 9p._; [Junfei et al.](DomainMiningMachineTranslation.pdf) discusses natural language processing for the scenario of language translation (e.g., English to French).  Making an accurate translation is complex due to language being highly contextual, and a simple A to B map does not produce quality results.  These issues are compounded when dealing with a specific domain (e.g., physics or financial calculus)-- as the availability of training data is sparse.  The researchers get around these issues by creating a Language Model (LM) and then performing statistics modeling on the domain specific informaiton.
+
+### How do they create a language model
+
+The most popular LM is called Kneser-Neys, followed by SRILM and KenLM.  These approaches attempt to estimate a discount function that feeds into a linear interpolation solution.  In this video [Jain, M](https://www.youtube.com/watch?v=eNLUo3AIvcQ)(2018) decrypts that statement by explaining what Kneser-Neys smoothing entails.  Jain states that a naive solution is to look at the statistical weight of the `word[i+1]` based on `word[i-1]` and then apply a constant adjustment.  Instead, a _continuation probability_ looks at the likelihood that the next word naturally extends the sentence.  For instance, "I can't see without my [blank]"  -- using `Franciso` does not make sense because the partial sentence is lacking term `San`.
+
+![kneser-neys.png](kneser-neys.png)
+
+### How do you apply topic clustering
+
+The authors use Latent Dirichlet allocation (LDA), to cluster the documents based on their similarity.  [Knispelis](https://www.youtube.com/watch?v=3mHy4OSyRf0) explains the algorithm through the example of finding similar magazine content.  He uses `gensim` a python module for topic modeling across Wikipedia, an approximately 12GB dataset, and applies filters to remove garbage and common words (e.g. and) -- to find the top N words.  Using LDA creates a hierarchial probability data structure that maps words -> topics -> context.  The words that are that are not in the training set are ignored, and then the frequency of those words creates a histogram.  These histograms creates a distribution that places the each data point on a `N-dimension space` where N is the number of topics.  `Jenson-Shannon Divergence` gives us the distance between distributions two data points and thus its likelihood of being related.
+
+![lda.png](lda.png)
 
 ## A hybrid data mining model in analyzing corporate social responsibility (2016)
 
