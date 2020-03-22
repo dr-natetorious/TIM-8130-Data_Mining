@@ -42,10 +42,13 @@ In _International Journal of Production Research. Aug2018, Vol. 56 Issue 15, p51
 
 The criticality of accuracy across supply chain management is throughly discussed as part of [TIM-7020 Business Intelligence Week2 Case Study](https://github.com/dr-natetorious/TIM-7020-Database_and_Business_Intelligence/tree/master/Week3_BlackBeanTea_CaseStudy/BachmeierNTIM7020-3.docx).
 
-
 ## Application of the RFID Data Mining to an Apparel Field (2010)
 
-At _13th International Conference on Network-Based Information Systems Network-Based Information Systems (NBiS). Sept, 2010_; [Sakuai et al.](ApparelField.pdf)...
+At _13th International Conference on Network-Based Information Systems Network-Based Information Systems (NBiS). Sept, 2010_; [Sakuai et al.](ApparelField.pdf) provides a case study where an apparel outlet inserted RFID tags into all products and strategically placed readers around the store.  This provides a mechanism for the store to track individual items as customers inspect and try on the garmets, and ensures the item does not become lost.  Though monitoring of the item's lifecycle within the story, the data analysis team can make more accurate forecasts about items that were considered in addition to those actually purchased.
+
+For instance, if a person picked up a Playstation and XBOX but only bought one of them, the point of sales (POS) could only tell the business that a custom purchased the xbox.  It would not provide the marketing guidance that the customer actually wanted both.  The same behavior can be seen with different clothing items, and might provide another pivot of the data to infer -- apripori style -- that specific items are canabolizing other item sales.  That might be good or could be bad, until measured its difficult to known outside of anicodal evidence.
+
+![apparel_prediction.png](apparel_prediction.png)
 
 ## Adding RFID Capabilities to IoT Technologies: Proof-of-Concept on Microwave Doppler Sensors (2019)
 
