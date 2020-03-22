@@ -6,7 +6,29 @@ In _International Journal of Distributed Sensor Networks. 8/30/2015, Vol. 2015, 
 
 ## Improvised methods for tackling big data stream mining challenges: case study of human activity recognition (2016)
 
-In _Journal of Supercomputing. Oct2016, Vol. 72 Issue 10, p3927-3959. 33p._; [Fong et al.](ImprovisedMethods_for_BigDataStreamMining.pdf)...
+In _Journal of Supercomputing. Oct2016, Vol. 72 Issue 10, p3927-3959. 33p._; [Fong et al.](ImprovisedMethods_for_BigDataStreamMining.pdf) apply _stream-based holistic analytics and reasoning in parallel_ (SHARP) to mine big data streams.  They evaluate the performance of decision tree algorithms that use both batch and incremental modes.
+
+> SHARP is comprised of several components which cover a typical data-mining model construction process [such as] feature selection, one-pass incremental decision tree induction, and incremental swarm optimization.  Each one of these components in SHARP is supposed to complement each other towards the common objective of improving the classification/prediction
+performance as a whole.
+
+![sharp.png](sharp.png)
+
+### What did they do with this system
+
+Using a series of Microsoft Kinect sensors, they were able to stream actors moving and then make predictions on the gestures, such as pushing or jumping.  These gestures require a blending of historical information that spans some number of frames.  This requires complex pattern recognition across very large feature spaces, represented _by continuous data sequences in temporal domain_.  They relied on RFID technology to tag specific segments on the body are reduce the complexity of determining neuances of e.g. hand movements.
+
+Then meta-learning builds upon these position changes to derive actions to derive movement to derive gestures.  As the system recurses into itself the level of detail becomes more abstract and can produce improvised results.  
+
+> By the definition from Oxford Dictionary, improvised means "produce or make (something) from whatever is available."
+
+![meta-learning.png](meta-learning.png)
+
+### What are examples of improvised methods
+
+- Outlier detection: For removing noise or finding salient features.
+- Class balancing : For training a classifier that learns minority of samples.
+- Feature selection: For finding a subset of significant features.
+- Efficient rule induction: For generating a compact set of useful rules.
 
 ## Domain mining for machine translation (2015)
 
