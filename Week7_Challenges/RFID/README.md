@@ -38,7 +38,10 @@ Tags support both locked and unlocked memory spaces that control access.  Access
 
 ## Inventory misplacement and demand forecast error in the supply chain: profitable RFID strategies under wholesale and buy-back contracts (2018)
 
-In _International Journal of Production Research. Aug2018, Vol. 56 Issue 15, p5188-5205. 18p. 5 Diagrams, 1 Chart, 4 Graphs._; [Zhang et al.](InventoryManagement.pdf)...
+In _International Journal of Production Research. Aug2018, Vol. 56 Issue 15, p5188-5205. 18p._; [Zhang et al.](InventoryManagement.pdf) state that the loss of inventory is a common and costly problem across supply chains.  Not only does the problem cause lost inventory, but also creates inefficiencies with demand forcasting.  Several large retailers (e.g., Walmart and Target) have moved to mandate RFID across their supply chain -- which allows them to automate the procurement and filliment of inventory from end-to-end.  
+
+The criticality of accuracy across supply chain management is throughly discussed as part of [TIM-7020 Business Intelligence Week2 Case Study](https://github.com/dr-natetorious/TIM-7020-Database_and_Business_Intelligence/tree/master/Week3_BlackBeanTea_CaseStudy/BachmeierNTIM7020-3.docx).
+
 
 ## Application of the RFID Data Mining to an Apparel Field (2010)
 
