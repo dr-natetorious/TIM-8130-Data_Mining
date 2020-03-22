@@ -2,7 +2,9 @@
 
 ## Data Mining for the Internet of Things: Literature Review and Challenges (2015)
 
-In _International Journal of Distributed Sensor Networks. 8/30/2015, Vol. 2015, p1-14. 14p._; [Chen et al.](Securing_Body_Sensor_Networks.pdf)...
+In _International Journal of Distributed Sensor Networks. 8/30/2015, Vol. 2015, p1-14. 14p._; [Chen et al.](Securing_Body_Sensor_Networks.pdf) states that traditional security solutions for Wireless Sensor Networks do not work very well with Body Sensor Networks.  These issues come from their low power sensors that encounter lots of noise and errors, that are unlikely to be perfectly synchronized.  The authors mitigate these challenges with `Error Correction Codes` and a linear interpolation encryption method.  They expand on previous work with a _fuzzy extractor based key negotiation scheme_.
+
+Fuzzy Commmitment Technology in BSN relies on many human physical actions produce high levels of random entropy and can modeled as a pseduorandom number generator (PNG).
 
 ## Improvised methods for tackling big data stream mining challenges: case study of human activity recognition (2016)
 
