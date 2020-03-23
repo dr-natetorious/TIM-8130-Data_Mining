@@ -56,7 +56,7 @@ At _IEEE International Conference on RFID Technology and Applications (RFID-TA) 
 
 ## Radio-Frequency Identification Specimen Tracking to Improve Quality in Anatomic Pathology (2020)
 
-In _Archives of Pathology & Laboratory Medicine (ARCH PATHOL LAB MED), Feb2020; 144(2): 189-195. (7p)_; [Norgan et al.](RFID_SpecimenTracking.pdf) provides a case-study where a labortory transitioned from barcodes to RFID as a means to track samples.  They found that RFID was an easy to use solution that was easy to adopt, aside from a few procedural challenges.  These issues were mitigated by placing more readers throughout the different departments and at strategic junctions to simply scanning.  Another issue is that the tags are reliable at 3m but the realworld distance was closer to 0.3m, which introduced challenges for scenarios such as autoscanning samples as they enter through doorways.
+In _Archives of Pathology & Laboratory Medicine (ARCH PATHOL LAB MED), Feb2020; 144(2): 189-195. (7p)_; [Norgan et al.](RFID_SpecimenTracking.pdf) provides a case-study where a laboratory transitioned from barcodes to RFID as a means to track samples.  They found that RFID was an easy to use solution that was easy to adopt, aside from a few procedural challenges.  These issues were mitigated by placing more readers throughout the different departments and at strategic junctions to simply scanning.  Another issue is that the tags are reliable at 3m but the realworld distance was closer to 0.3m, which introduced challenges for scenarios such as autoscanning samples as they enter through doorways.
 
 ## Just Walk-Out Technology and its Challenges: A Case of Amazon Go (2018)
 
