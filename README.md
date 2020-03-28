@@ -11,10 +11,10 @@ Notes, papers, and projects regarding the emerging issues in data mining
   - [Week 3](Week3_Application): Data-Mining Techniques Through Analysis and Algorithms
   - [Week 4](Week4_DiscoverLogic): Data Mining and Predictive Analytics
 - Section 3: Data Mining Theory and Practice
-  - Week 5: Theories of Data Mining and Machine Learning
-  - Week 6: Data Mining Practices Using Statistics
-  - Week 7: Challenges in Data Mining Theories and Practice
-  - Week 8: The Future of Data Mining
+  - [Week 5](Week5_AnalyzeTheories): Theories of Data Mining and Machine Learning
+  - [Week 6](Week6_Statistics): Data Mining Practices Using Statistics
+  - [Week 7](Week7_Challenges): Challenges in Data Mining Theories and Practice
+  - [Week 8](Week8_IoT_Capstone): The Future of Data Mining
 
 ## Description
 
