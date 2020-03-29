@@ -39,10 +39,12 @@ Preprocessing Data Resources
 - According t  - Gibert et al. (2016), nearly 70% of all data mining occurs during the cleaning phase.
 - Data Catalog as step in lifecycle (Zambetti, Pinto, & Pezzotta, 2019) 
 - Before analysis can begin, the data analyst needs t  - normalize the incoming data through an extract-transform-load (ETL) process.  This process needs t  - perform column renaming and reordering, adjusting quantity units, filtering erroneous values, populating missing values, and similar cleanup actions.  When analysis does not handle these aspects upfront, it creates a garbage-in/garbage-out scenario.  For example, a temperature reading of 55 degrees could be manually entered as 555 degrees, causing later analysis t  - become skewed.
-- After cleaning and schematizing the incoming data, the next analyst needs t  - determine which aspects are relevant for their data mining objective.  Having large amounts of unrelated information does not improve results, and for many scenarios, it only slows down model training times.
+- •	After cleaning and schematizing the incoming data, the next analyst needs to determine which aspects are relevant for their data mining objective.  Having large amounts of unrelated information does not improve results, and for many scenarios, it only slows down model training times.
 - Another critical challenge is handling missing values (Rawal et al., 2017) as they need t  - be normalized or removed.  These decisions become scenarios specific.
-- The cleaned data set might need additional enhancements by combining across related information.  For instance, the marketing team can use Point Of Sales + Mobile App + seasonal trends t  - create targeted marketing campaigns
+- •	The cleaned data set might need additional enhancements by combining across related information.  For instance, the marketing team can use Point Of Sales + Mobile App + seasonal trends to create targeted marketing campaigns
+
 Required Collection Resources
+
 - Tracking inventory across the supply chain has several human touch points that need t  - consider.  From the supplier placing RFID tags on containers t  - the workers at the distribution center that hold these items until needed.  Managers need t  - be responsible and accountable for their staff t  - follow the standards and report metrics in a timely and accurate manner.  Local network managers d  - not exist, s  - some central networking team would need t  - work with IoT vendors t  - support these sensors.  Operations teams need t  - monitor for anomalies using models created by the data analysis team.  The analysis prioritize which aspects t  - model based on the business leadership direction.
 - Multiple hardware technologies need t  - be deployed t  - monitor from the garden t  - the customer’s review.  These technologies include
   - RFID General tags  (Balic et al., 2010)
@@ -59,18 +61,12 @@ What logical components or assumptions exist
 ## Section III: Evaluation Procedures
 
 What statistical techniques can measure process ROI
-- A successful strategy needs t  - align the business goals t  - KPI and then deliver data solutions that improve those objectives. (Gonzales & Wareham, 2019) discuss how this becomes more prominent as the organization grows in maturity
-- Liyanage et al. (2018) provide a list of KPIs for smart restaurants such as correct products, reducing delays between orders, recommendation accuracies, and the amount of friction bridging int  - mobile.
-- Statistical analysis
-  - Snee (2005) points out that by random chance some features are randomly correlated (ala Multicollinearity)
-  - Correlation versus Causation
-  - Variance and standard deviations
-Section IV: Future Applications
-What data mining strategies can apply t  - this information
-- Time Series analysis with clustering data t  - form a semantic model and then use spark t  - process the algorithms (Talei & Benhaddou, 2018)
-- LTSM and neural networks (Keras)?
-- Using gestures from vide  - - metalearning (Fong et al., 2016)
-- Ensemble methods like Netflix (Bell, Koren, & Volinsky, 2007)
+•	A successful strategy needs to align the business goals to KPI and then deliver data solutions that improve those objectives. (Gonzales & Wareham, 2019) discuss how this becomes more prominent as the organization grows in maturity
+•	Liyanage et al. (2018) provide a list of KPIs for smart restaurants such as correct products, reducing delays between orders, recommendation accuracies, and the amount of friction bridging into mobile.
+•	Statistical analysis
+o	Snee (2005) points out that by random chance some features are randomly correlated (ala Multicollinearity)
+o	Correlation versus Causation
+o	Variance and standard deviations
 
 ## Conclusions
 
