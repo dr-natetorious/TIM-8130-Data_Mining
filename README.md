@@ -6,8 +6,11 @@ Notes, papers, and projects regarding the emerging issues in data mining
 
 Several directories also contain a `launch.bat` to open that folder into Jupyter Notebooks.  There are also annotated bibliographies under each weeks Reading section.
 
+- [How to approach Data Mining](Week1_Intro_Data_Optimization/BachmeierNTIM8130-1.docx)
 - [Reviewing Health Code Violations in NYC](Week2_Usefulness_DataMining/BachmeierNTIM8130-2.docx)
+- [How to use Data Mining Frameworks](Week3_Application/BachmeierNTIM8130-3.docx)
 - [Generating Shakespeare with Markov Chains](Week4_DiscoverLogic/McBeth/Shakespeare.ipynb)
+- [Preparing Information for Extraction](Week4_DiscoverLogic/BachmeierNTIM8130-4.docx)
 - [Can ImagineBoston Succeed](Week5_AnalyzeTheories/BachmeierNTIM8130-5.docx)
 - [Mortality Predictions for Covid-19](Week6_Statistics/Coronavirus)
 - [Incorporating RFID into Data Mining](Week7_Challenges/BachmeierNTIM8130-7.docx)
