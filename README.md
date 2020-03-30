@@ -2,6 +2,18 @@
 
 Notes, papers, and projects regarding the emerging issues in data mining
 
+## Material Highlights
+
+Several directories also contain a `launch.bat` to open that folder into Jupyter Notebooks.  There are also annotated bibliographies under each weeks Reading section.
+
+- [Reviewing Health Code Violations in NYC](Week2_Usefulness_DataMining/BachmeierNTIM8130-2.docx)
+- [Using SckitLearn](Week2_Usefulness_DataMining/OpenNYC)
+- [Generating Shakespeare with Markov Chains](Week4_DiscoverLogic/McBeth/Shakespeare.ipynb)
+- [Can ImagineBoston Succeed](Week5_AnalyzeTheories/BachmeierNTIM8130-5.docx)
+- [Mortality Rates during Covid-19](Week6_Statistics/Coronavirus)
+- [Incorporating RFID into Data Mining](Week7_Challenges/BachmeierNTIM8130-7.docx)
+- [Incorporating IoT into Smart Restuarants](Week8_IoT_Capstone/BachmeierNTIM-8.docx)
+
 ## Course Overview
 
 - Section 1: Introduction and Data Optimization
